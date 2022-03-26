@@ -46,6 +46,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Error-4-You&theme=dark)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error-4-You&langs_count=8&theme=dark)](https://github.com/Error-4-You/github-readme-stats)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 </p>
