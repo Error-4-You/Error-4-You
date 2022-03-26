@@ -1,8 +1,8 @@
-### <h1>Hey, I'm Error 4 You <img src='https://raw.githubusercontent.com/Error-For-You/Error-For-You/main/Hi.gif' width=20px><img src='https://raw.githubusercontent.com/Error-For-You/Error-For-You/main/Hi.gif' width=20px><img src='https://raw.githubusercontent.com/Error-For-You/Error-For-You/main/Hi.gif' width=20px>
+### <h1>Hey, I'm Error 4 You <img src='https://raw.githubusercontent.com/Error-4-You/Error-4-You/main/Hi.gif' width=20px><img src='https://raw.githubusercontent.com/Error-4-You/Error-4-You/main/Hi.gif' width=20px><img src='https://raw.githubusercontent.com/Error-4-You/Error-4-You/main/Hi.gif' width=20px>
 
 </h1>
 
-### <h3>Black Hat Hacker  <img src='https://raw.githubusercontent.com/Error-For-You/Error-For-You/main/Earth.gif' width=20px></h3>
+### <h3>Black Hat Hacker  <img src='https://raw.githubusercontent.com/Error-4-You/Error-4-You/main/Earth.gif' width=20px></h3>
 
 ### 😐
 
@@ -34,24 +34,24 @@
 ### 😐
 
   
-<p align="center"><a href="https://github.com/Error-For-You"><img title="Error-For-You" src="hack.gif"></a>
+<p align="center"><a href="https://github.com/Error-4-You"><img title="Error-4-You" src="hack.gif"></a>
 </p>
   
 ### KNOW MORE ABOUT ME>>>>
 <p align="center">
-<a href="https://github.com/Error-For-You"><img title="Error-For-You" src="https://github-readme-stats.vercel.app/api?username=Error-For-You&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-<a href="https://github.com/Error-For-You"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error-For-You&theme=dark&hide_langs_below=1&layout=compact" width="360px"/></a>
+<a href="https://github.com/Error-4-You"><img title="Error-4-You" src="https://github-readme-stats.vercel.app/api?username=Error-4-You&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<a href="https://github.com/Error-4-You"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error-4-You&theme=dark&hide_langs_below=1&layout=compact" width="360px"/></a>
 </p>
 <p align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Error-For-You&theme=dark)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error-For-You&langs_count=8&theme=dark)](https://github.com/Error-For-You/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Error-4-You&theme=dark)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error-4-You&langs_count=8&theme=dark)](https://github.com/Error-4-You/github-readme-stats)
 
 
 </p>
 
 <p align="center">
-<a href="https://github.com/Error-For-You"><img title="YouTube" src="https://img.shields.io/badge/Error-4You-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Error-4-You"><img title="YouTube" src="https://img.shields.io/badge/Error-4You-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/channel/UCfjJgu6-VQPvcgRaygLyhqQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Error 4 You-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
@@ -64,10 +64,10 @@
 
 
 <p align="center">
-<a href="https://github.com/Error-For-You/Web-CamHack"><img title="Web-CamHack" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-For-You&repo=Web-CamHack&theme=highcontrast"></a>
-<a href="https://github.com/Error-For-You/Kalimux"><img title="Kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-For-You&repo=Kalimux&theme=highcontrast"></a>
-<a href="https://github.com/Error-For-You/Cam-Hacker"><img title="Cam-Hacker" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-For-You&repo=Cam-Hacker&theme=highcontrast"></a>
-<a href="https://github.com/Error-For-You/Ha4kcam"><img title="Ha4kcam" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-For-You&repo=Ha4kcam&theme=highcontrast"></a>
+<a href="https://github.com/Error-4-You/Web-CamHack"><img title="Web-CamHack" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-4-You&repo=Web-CamHack&theme=highcontrast"></a>
+<a href="https://github.com/Error-4-You/Kalimux"><img title="Kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-4-You&repo=Kalimux&theme=highcontrast"></a>
+<a href="https://github.com/Error-4-You/Cam-Hacker"><img title="Cam-Hacker" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-4-You&repo=Cam-Hacker&theme=highcontrast"></a>
+<a href="https://github.com/Error-4-You/Ha4kcam"><img title="Ha4kcam" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-4-You&repo=Ha4kcam&theme=highcontrast"></a>
 
 </p>
 
