@@ -64,6 +64,10 @@
 </p>
 
 
+
+
+
+
 <p align="center">
 <a href="https://github.com/Error-4-You/Web-CamHack"><img title="Web-CamHack" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-4-You&repo=Web-CamHack&theme=highcontrast"></a>
 <a href="https://github.com/Error-4-You/Kalimux"><img title="Kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-4-You&repo=Kalimux&theme=highcontrast"></a>
@@ -71,6 +75,11 @@
 <a href="https://github.com/Error-4-You/Ha4kcam"><img title="Ha4kcam" src="https://github-readme-stats.vercel.app/api/pin/?username=Error-4-You&repo=Ha4kcam&theme=highcontrast"></a>
 
 </p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Error-4-You)  
+
+![GitHub metrics](https://metrics.lecoq.io/Error-4-You)  
+
 
 
 
