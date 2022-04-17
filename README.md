@@ -38,6 +38,9 @@
 </p>
   
 ### KNOW MORE ABOUT ME>>>>
+
+![Profile views](https://gpvc.arturio.dev/Error-4-You)  
+
 <p align="center">
 <a href="https://github.com/Error-4-You"><img title="Error-4-You" src="https://github-readme-stats.vercel.app/api?username=Error-4-You&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 <a href="https://github.com/Error-4-You"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error-4-You&theme=dark&hide_langs_below=1&layout=compact" width="360px"/></a>
